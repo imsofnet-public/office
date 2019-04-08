@@ -1,0 +1,8 @@
+[13-Mar-2017 11:10:30 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/erudi447/get-alert.com/office/alert.php on line 323
+[27-Mar-2017 08:55:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/erudi447/get-alert.com/office/index.php on line 268
+[27-Mar-2017 08:59:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/erudi447/get-alert.com/office/index.php on line 268
+[27-Mar-2017 09:13:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/erudi447/get-alert.com/office/office.php on line 432
+[27-Mar-2017 12:44:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/erudi447/get-alert.com/office/alert.php on line 495
+[31-Mar-2017 19:01:26 UTC] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING) in /home/erudi447/get-alert.com/office/alert.php on line 444
+[31-Mar-2017 19:05:16 UTC] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING) in /home/erudi447/get-alert.com/office/alert.php on line 444
+[31-Mar-2017 19:30:25 UTC] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING) in /home/erudi447/get-alert.com/office/alert.php on line 444
